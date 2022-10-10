@@ -1,5 +1,5 @@
 ## Hey 👋
-I’m @olliestorey (Ollie Storey), a full stack web developer @ Cold Banana in Bounemouth.
+I’m Ollie Storey from Cold Banana in Bounemouth.
 
 📫 How to reach me ...
-get hold of me at ollie@coldbananastudio.com
+get hold of me at ollie.storey@coldbanana.com
